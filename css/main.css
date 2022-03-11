@@ -12,6 +12,10 @@ body {
   margin: 0;
 }
 
+section {
+  background-color: #ccc;
+  padding: 2rem;
+}
 
 h2 {
   text-align: center;
@@ -40,3 +44,18 @@ h3, h4 {
   margin: 0;
 }
 
+hgroup {
+  width: 16em;
+}
+
+p {
+  margin: 0 auto: 0 0;
+  max-width: 24em;
+}
+
+a  {
+  background-color: #444;
+  color: #fff;
+  text-decoration: none;
+  padding: : .5rem 1rem .6rem;
+}
